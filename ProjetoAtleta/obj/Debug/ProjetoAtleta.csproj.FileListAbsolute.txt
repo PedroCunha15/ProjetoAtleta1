@@ -1,0 +1,10 @@
+C:\Users\bughu\Documents\Programação\Nova pasta (3)\ProjetoAtleta\ProjetoAtleta\bin\Debug\ProjetoAtleta.exe.config
+C:\Users\bughu\Documents\Programação\Nova pasta (3)\ProjetoAtleta\ProjetoAtleta\bin\Debug\ProjetoAtleta.exe
+C:\Users\bughu\Documents\Programação\Nova pasta (3)\ProjetoAtleta\ProjetoAtleta\bin\Debug\ProjetoAtleta.pdb
+C:\Users\bughu\Documents\Programação\Nova pasta (3)\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.csprojAssemblyReference.cache
+C:\Users\bughu\Documents\Programação\Nova pasta (3)\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.Form1.resources
+C:\Users\bughu\Documents\Programação\Nova pasta (3)\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.Properties.Resources.resources
+C:\Users\bughu\Documents\Programação\Nova pasta (3)\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.csproj.GenerateResource.cache
+C:\Users\bughu\Documents\Programação\Nova pasta (3)\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.csproj.CoreCompileInputs.cache
+C:\Users\bughu\Documents\Programação\Nova pasta (3)\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.exe
+C:\Users\bughu\Documents\Programação\Nova pasta (3)\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.pdb
